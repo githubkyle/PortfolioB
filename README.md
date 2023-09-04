@@ -8,7 +8,7 @@ NPM run start to view the application.
 
 ## Usage
 
-You can see an about me page, a my projects page, my resume and you can even contact me.
+You can see an about me page, my projects, my resume and even contact me.
 
 ```
 
