@@ -27,7 +27,7 @@ export default function Header() {
 
   return (
     <div className="header">
-      <h1>My Portfolio Page</h1>
+      <h1>My Portfolio</h1>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
