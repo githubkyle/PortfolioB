@@ -45,7 +45,7 @@ const projects = [
     title: "Workout Customizer",
     imageUrl: "Workouts.png",
     GithubRepo: "https://github.com/githubkyle/Workout-Customizer",
-    DeployedPage: "https://workout-customizer-1ca954ff9a9e.herokuapp.com/"
+    DeployedPage: "https://mighty-plateau-22943-0de527406555.herokuapp.com/"
   }
 ];
 
