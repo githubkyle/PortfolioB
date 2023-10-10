@@ -3,6 +3,12 @@ import Project from "./pages/project";
 
 const projects = [
   {
+    title: "Workout Customizer",
+    imageUrl: "Workouts.png",
+    GithubRepo: "https://github.com/githubkyle/Workouts",
+    DeployedPage: "https://workouts-9a2660eff0a7.herokuapp.com/"
+  },
+  {
     title: "Server Notes",
     imageUrl: "servernotes.png",
     GithubRepo: "https://github.com/githubkyle/ServerNotes",
@@ -33,19 +39,6 @@ const projects = [
     imageUrl: "password.png",
     GithubRepo: "https://github.com/githubkyle/Password-Generator",
     DeployedPage: "https://githubkyle.github.io/Password-Generator/"
-  },
-
-  {
-    title: "First Portfolio",
-    imageUrl: "firstport.png",
-    GithubRepo: "https://github.com/githubkyle/Challenge2",
-    DeployedPage: "https://githubkyle.github.io/Challenge2/"
-  },
-  {
-    title: "Workout Customizer",
-    imageUrl: "Workouts.png",
-    GithubRepo: "https://github.com/githubkyle/Workouts",
-    DeployedPage: "https://workouts-9a2660eff0a7.herokuapp.com/"
   }
 ];
 
