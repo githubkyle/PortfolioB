@@ -35,7 +35,7 @@ const ContactForm = () => {
         <input
           type="text"
           name="name"
-          placeholder="Name"
+          placeholder="Your Name"
           value={nameValue}
           onChange={handleNameChange}
           required
@@ -45,7 +45,7 @@ const ContactForm = () => {
           value={emailValue}
           onChange={handleEmailChange}
           name="email"
-          placeholder="Email Address"
+          placeholder="Your Email Address"
           required
         />
 
