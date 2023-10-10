@@ -10,8 +10,8 @@ export default function About() {
         style={{ maxWidth: "450px", height: "500px" }}
       ></img>
       <p>
-        Kyle Schwent was born and raised in Saint Louis. He's played chess most of his
-        life, is interested in languages, cats and playing sports.
+        Kyle was born and raised in Saint Louis. He often plays chess and
+        pickleball and enjoys delivering tangible results.
       </p>
     </div>
   );
